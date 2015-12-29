@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T03:38:34.137Z'
-dateModified: '2015-12-29T03:37:25.619Z'
+datePublished: '2015-12-29T03:50:18.492Z'
+dateModified: '2015-12-29T03:48:45.786Z'
 title: Lyla T ’s Blog And Vlog
 author: []
 authors: []
@@ -22,6 +22,8 @@ url: lyla-t-s-blog-and-vlog/index.html
 _type: Article
 
 ---
-Hey everyone! My name is Lyla Tsiokos and this is my blog and vlog!  **Definition** Blog: a personal website or web page on which an individual records opinions, links to other sites, etc. on a regular basis.
+Hey everyone! My name is Lyla Tsiokos and this is my blog and vlog!
+Definition
+Blog: a personal website or web page on which an individual records opinions, links to other sites, etc. on a regular basis.
 Vlog: a blog in which the postings are primarily in video form.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d241103e-4456-41aa-9d25-19e08b2c1daf.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7520fb0d-4c0b-47f1-9ec5-f2b71fde30aa.png)
