@@ -1,6 +1,6 @@
 name: Lyla Tsiokos
 favicon: null
-layout_spectrum: 0.88745
+layout_spectrum: 0.39668
 typography_spectrum: 0.1024
 title: "Lyla's Homepage"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#66ccff'
-    - '#ccffcc'
-    - '#0099cc'
-    - '#00339a'
-    - '#4f7abd'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+    - '#ffffff'
+    - '#fe080d'
+    - '#41c903'
+    - '#fe9307'
+    - '#0225f3'
+  brandStrength: 0.5625
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
