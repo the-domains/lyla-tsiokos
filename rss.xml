@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lyla's Homepage]]></title>
         <description><![CDATA[Lyla's Homepage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://lyla.tsiokos.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 21:05:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 00:42:05 GMT</lastBuildDate>
+        <atom:link href="http://lyla.tsiokos.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18cc0c380dd200ade934f9f24dff40dc9aba9090.png" alt="" title="">]]></description>
+            <link>http://lyla.tsiokos.com/6f70edf8-3bdd-4d77-9dcd-bb3e0932f7a3/index.html</link>
+            <guid isPermaLink="false">6f70edf8-3bdd-4d77-9dcd-bb3e0932f7a3</guid>
+            <pubDate>Wed, 30 Dec 2015 00:42:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f445ca2-ca95-4645-883d-fafc3cc6d17f.png">]]></description>
-            <link>undefinedeb4a16b6-2332-4e45-9e9d-1d3a551f13be/index.html</link>
+            <link>http://lyla.tsiokos.com/eb4a16b6-2332-4e45-9e9d-1d3a551f13be/index.html</link>
             <guid isPermaLink="false">eb4a16b6-2332-4e45-9e9d-1d3a551f13be</guid>
             <pubDate>Tue, 29 Dec 2015 21:05:37 GMT</pubDate>
         </item>
